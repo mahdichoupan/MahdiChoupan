@@ -8,4 +8,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdichoupan&theme=vue-dark&show_icons=true)
 
-<i class="bitIcon-python"></i>
+![Anurag's GitHub stats](https://icon-library.com/icon/programming-language-icon-21.html.html)
