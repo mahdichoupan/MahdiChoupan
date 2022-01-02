@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🤍 Wellcome to my page
-- 🤵 I'm Mahdi
+- 😃 I'm Mahdi
 - 💻 Languages: Python, C++, Html, Css, SQLServer 
 - ✉ You can contact me at: mahdichoupan@gmail.com
 
