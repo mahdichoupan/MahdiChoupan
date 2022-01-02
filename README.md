@@ -7,3 +7,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdichoupan&theme=vue-dark&show_icons=true)
+
+<i class="bitIcon-python"></i>
